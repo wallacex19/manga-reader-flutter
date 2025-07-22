@@ -1,0 +1,15 @@
+name: manga_reader
+description: App de leitura de mangás para Web e Mobile
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.3.0
+  carousel_slider: ^4.2.1
+  provider: ^6.0.5
+
+flutter:
+  uses-material-design: true
